@@ -1,1 +1,1 @@
-# API-scheduler
+The Custom API Scheduler is a Spring Boot-based application designed to manage and execute APIs from diverse applications written in various technologies (Node.js, Python, Java Spring). The scheduler enables API scheduling at configurable intervals, dynamic API addition, update, and deletion, and tracks API execution history.
